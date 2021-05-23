@@ -1,0 +1,2 @@
+System.out.println("Hello, mugpeng!");
+System.out.println("goodbye, mugpeng!")
